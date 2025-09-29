@@ -4,8 +4,8 @@
 
 **Unity • Unreal Engine • Game Development**
 
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:[lol16102009228@gmail.com])
-[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge)]([https://web.telegram.org/k/#@dota2mrbeast])
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:lol16102009228@gmail.com)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge)](https://web.telegram.org/k/#@dota2mrbeast)
 
 </div>
 
