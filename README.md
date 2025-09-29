@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**broodislav/broodislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Владислав 👋
+### C# Game Developer
 
-Here are some ideas to get you started:
+**Unity • Unreal Engine • Game Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:[lol16102009228@gmail.com])
+[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge)]([https://web.telegram.org/k/#@dota2mrbeast])
+
+</div>
+
+---
+
+## 🎮 Tech Stack
+
+**Game Engines:**
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
+**Programming:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Tools:**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### **🎯 None to present rn, but i`ll try my best to make a project soon **
+
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=[broodislav]&show_icons=true&theme=default" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[broodislav]&layout=compact&hide=html,css" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's create amazing games together!** 🎮
+
+</div>
