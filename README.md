@@ -1,7 +1,6 @@
 <div align="center">
 
-# Владислав 👋
-### C# Game Developer
+# Владислав 👋 **C# Game Developer**
 
 **Unity • Unreal Engine • Game Development**
 
@@ -35,12 +34,11 @@
 
 ---
 
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[broodislav]&show_icons=true&theme=default" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[broodislav]&layout=compact&hide=html,css" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=broodislav&theme=vue-dark&hide_border=true&layout=compact&hide=html,css" height="165" />
 
 </div>
 
